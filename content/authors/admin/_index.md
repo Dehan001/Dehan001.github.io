@@ -74,7 +74,10 @@ education:
     Correction_. Supervised by [A K M Mahbubur Rahman, PhD](http://iub.ac.bd/academics/departments/cse/faculty-and-staff/akmmrahman). Presented papers at EMNLP(2023) conference with the contributions being published in 2 these conference.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://github.com/Dehan001/Dehan001.github.io/blob/main/files/thesis.pdf'\
+    button:
+      text: 'Slides'
+      url: ''
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
