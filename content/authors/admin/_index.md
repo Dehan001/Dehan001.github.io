@@ -50,21 +50,28 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=neAnNCwAAAAJ&hl=en
 
-  - icon: academicons/orcid
-    url: https://orcid.org/
-
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Natural Language Processing
+  - Data Science
+  - Computer Vision
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Computer Science and Engineering
+    institution: Independent University Bangladesh
+    date_start: 2019-01-01
+    date_end: 2024-07-02
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+          GPA: 3.78/4.0
+
+      Courses included:
+      - Data Mining and Warehouse
+      - Artificial Intelligence 
+      - Theory of Computation & Automata
+    
+    Thesis on _BaTEClaCor:_A Novel Dataset for Bangla Text Error Classification and
+    Correction_. Supervised by [A K M Mahbubur Rahman, PhD](http://iub.ac.bd/academics/departments/cse/faculty-and-staff/akmmrahman). Presented papers at EMNLP(2023) conference with the contributions being published in 2 these conference.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
