@@ -79,7 +79,7 @@ education:
        text: 'Read Thesis'
        url: 'https://github.com/Dehan001/Dehan001.github.io/blob/main/files/thesis.pdf'
     
-    button:
+     button:
        text: 'Slides'
        url: 'https://github.com/Dehan001/Dehan001.github.io/blob/main/files/thesis_slides.pptx'
 
