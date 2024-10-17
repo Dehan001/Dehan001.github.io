@@ -60,28 +60,28 @@ interests:
   - Computer Vision
 
 education:
-  - area: BSc Computer Science and Engineering
-    institution: Independent University Bangladesh
-    date_start: 2019-01-01
-    date_end: 2024-07-02
-    summary: |
-      GPA: 3.78/4.0
+  # - area: BSc Computer Science and Engineering
+  #   institution: Independent University Bangladesh
+  #   date_start: 2019-01-01
+  #   date_end: 2024-07-02
+  #   summary: |
+  #     GPA: 3.78/4.0
 
-      Courses included:
-      - Data Mining and Warehousing
-      - Artificial Intelligence
-      - Theory of Computation & Automata
+  #     Courses included:
+  #     - Data Mining and Warehousing
+  #     - Artificial Intelligence
+  #     - Theory of Computation & Automata
 
       # Thesis on _BaTEClaCor: A Novel Dataset for Bangla Text Error Classification and
       # Correction_. Supervised by [A K M Mahbubur Rahman, PhD](http://iub.ac.bd/academics/departments/cse/faculty-and-staff/akmmrahman). Presented papers at EMNLP (2023) conference with the contributions being published in 2 conferences.
 
-     button:
-       text: 'Read Thesis'
-       url: 'https://github.com/Dehan001/Dehan001.github.io/blob/main/files/thesis.pdf'
+    #  button:
+    #    text: 'Read Thesis'
+    #    url: 'https://github.com/Dehan001/Dehan001.github.io/blob/main/files/thesis.pdf'
     
-     button:
-       text: 'Slides'
-       url: 'https://github.com/Dehan001/Dehan001.github.io/blob/main/files/thesis_slides.pptx'
+    #  button:
+    #    text: 'Slides'
+    #    url: 'https://github.com/Dehan001/Dehan001.github.io/blob/main/files/thesis_slides.pptx'
 
     # [![Read Thesis](https://img.shields.io/badge/Download-Thesis-blue)](https://yourusername.github.io/your-repo/files/thesis.pdf)
 
