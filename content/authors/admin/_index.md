@@ -64,8 +64,8 @@ education:
     institution: Independent University Bangladesh
     date_start: 2019-01-01
     date_end: 2024-07-02
-  #   summary: |
-  #     GPA: 3.78/4.0
+    summary: |
+      GPA: 3.78/4.0
 
   #     Courses included:
   #     - Data Mining and Warehousing
