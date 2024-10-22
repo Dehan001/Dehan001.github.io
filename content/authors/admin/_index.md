@@ -86,11 +86,10 @@ education:
       Presented papers at the BLP Workshop in the EMNLP 2023 conference, with the contributions published in the conference proceedings.
     button:
       text: 'Read Thesis'
-      url: 'https://github.com/Dehan001/Dehan001.github.io/blob/main/files/thesis.pdf'
-    
-    #  button:
-    #    text: 'Slides'
-    #    url: 'https://github.com/Dehan001/Dehan001.github.io/blob/main/files/thesis_slides.pptx'
+      url: 'uploads/thesis.pdf'
+    button:
+      text: 'Slides'
+      url: 'uploads/thesis_slides.pptx'
 
     # [![Read Thesis](https://img.shields.io/badge/Download-Thesis-blue)](https://yourusername.github.io/your-repo/files/thesis.pdf)
 
