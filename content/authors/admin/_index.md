@@ -67,10 +67,17 @@ education:
     summary: |
       GPA: 3.78/4.0
   
-      **Courses included**:
+      **Prominent Courses Included**:
       - Data Mining and Warehousing
       - Artificial Intelligence
-      - Theory of Computation & Automata
+      - Theory of Computation and Automata
+      - Algorithms
+      - Data Structures
+      - Object-Oriented Programming
+      - Database Systems
+      - Linear Algebra
+      - Numerical Methods
+
 
       **Thesis**: BaTEClaCor: A Novel Dataset for Bangla Text Error Classification and Correction. 
       Supervised by <a href="http://iub.ac.bd/academics/departments/cse/faculty-and-staff/akmmrahman" target="_blank">A K M Mahbubur Rahman, PhD</a>.
