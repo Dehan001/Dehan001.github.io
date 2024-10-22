@@ -86,7 +86,7 @@ education:
       Presented papers at the BLP Workshop in the EMNLP 2023 conference, with the contributions published in the conference proceedings.
     button:
       text: 'Read Thesis'
-      url: /static/uploads/thesis.pdf
+      url: /files/ccds_logo.PNG
       
 
 
