@@ -66,13 +66,17 @@ education:
     date_end: 2024-07-02
     summary: |
       GPA: 3.78/4.0
-      Courses included:
+  
+      **Courses included**:
       - Data Mining and Warehousing
       - Artificial Intelligence
       - Theory of Computation & Automata
 
-      Thesis on _BaTEClaCor: A Novel Dataset for Bangla Text Error Classification and
-      Correction_. Supervised by A K M Mahbubur Rahman, PhD(http://iub.ac.bd/academics/departments/cse/faculty-and-staff/akmmrahman). Presented papers at BLP Workshop in EMNLP (2023) conference with the contributions being published in this conference.
+      **Thesis**: _BaTEClaCor: A Novel Dataset for Bangla Text Error Classification and Correction_. 
+      Supervised by [A K M Mahbubur Rahman, PhD](http://iub.ac.bd/academics/departments/cse/faculty-and-staff/akmmrahman).
+  
+      **Conference Presentations**:
+      Presented papers at the BLP Workshop in the EMNLP 2023 conference, with the contributions published in the conference proceedings.
    
 
     #  button:
