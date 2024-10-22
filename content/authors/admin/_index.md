@@ -70,9 +70,12 @@ education:
       - Data Mining and Warehousing
       - Artificial Intelligence
       - Theory of Computation & Automata
-           
+    Summary: |  
       Thesis on _BaTEClaCor: A Novel Dataset for Bangla Text Error Classification and
       Correction_. Supervised by [A K M Mahbubur Rahman, PhD](http://iub.ac.bd/academics/departments/cse/faculty-and-staff/akmmrahman). Presented papers at EMNLP (2023) conference with the contributions being published in 2 conferences.
+    Summary: |
+     Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+
 
     #  button:
     #    text: 'Read Thesis'
