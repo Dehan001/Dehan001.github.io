@@ -83,8 +83,10 @@ education:
       Supervised by <a href="http://iub.ac.bd/academics/departments/cse/faculty-and-staff/akmmrahman" target="_blank">A K M Mahbubur Rahman, PhD</a>. Presented paper at the BLP Workshop in the EMNLP 2023 conference, with the contributions published in the conference proceedings.
     buttons:
       - tittle: 'Read Thesis'
+        icon: brands/arxiv
         url: /uploads/thesis.pdf
       - tittle: 'Presentation'
+        icon: brands/arxiv
         url: /uploads/thesis_slides.pptx
 
   - area: HSC (Science)
