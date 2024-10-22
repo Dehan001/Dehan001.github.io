@@ -87,7 +87,6 @@ education:
     button:
       text: 'Read Thesis'
       url: /uploads/thesis.pdf
-    button:
       text: 'Presentation'
       url: /uploads/thesis_slides.pptx
       
