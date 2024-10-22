@@ -88,6 +88,18 @@ education:
       - tittle: 'Presentation'
         icon: brands/arxiv
         url: /uploads/thesis_slides.pptx
+  - block: buttons
+      content:
+        buttons:
+          - title: Read my latest paper on LLMs
+            icon: brands/arxiv
+            url: https://arxiv.org/abs/2304.01852
+          - title: Watch my new YouTube video to achieve 20x productivity
+            icon: brands/youtube
+            url: https://youtube.com
+          - title: Connect with me on LinkedIn
+            icon: brands/linkedin
+            url: https://linkedin.com
 
   - area: HSC (Science)
     institution: Cantonment Public School and College, Rangpur
