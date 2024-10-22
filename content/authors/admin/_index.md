@@ -84,12 +84,11 @@ education:
   
       **Conference Presentations**:
       Presented papers at the BLP Workshop in the EMNLP 2023 conference, with the contributions published in the conference proceedings.
-    button:
-      text: 'Read Thesis'
-      url: /uploads/thesis.pdf
-      text: 'Presentation'
-      url: /uploads/thesis_slides.pptx
-      
+
+    text: |
+      <a class="button" href="/uploads/thesis.pdf" target="_blank">Read Thesis</a>
+      <a class="button" href="/uploads/thesis_slides.pptx" target="_blank">Presentation</a>
+  
 
 
     # [![Read Thesis](https://img.shields.io/badge/Download-Thesis-blue)](https://yourusername.github.io/your-repo/files/thesis.pdf)
