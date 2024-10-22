@@ -70,9 +70,9 @@ education:
       - Data Mining and Warehousing
       - Artificial Intelligence
       - Theory of Computation & Automata
-
-      # Thesis on _BaTEClaCor: A Novel Dataset for Bangla Text Error Classification and
-      # Correction_. Supervised by [A K M Mahbubur Rahman, PhD](http://iub.ac.bd/academics/departments/cse/faculty-and-staff/akmmrahman). Presented papers at EMNLP (2023) conference with the contributions being published in 2 conferences.
+           
+      Thesis on _BaTEClaCor: A Novel Dataset for Bangla Text Error Classification and
+      Correction_. Supervised by [A K M Mahbubur Rahman, PhD](http://iub.ac.bd/academics/departments/cse/faculty-and-staff/akmmrahman). Presented papers at EMNLP (2023) conference with the contributions being published in 2 conferences.
 
     #  button:
     #    text: 'Read Thesis'
