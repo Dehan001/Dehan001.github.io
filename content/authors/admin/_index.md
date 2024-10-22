@@ -84,11 +84,9 @@ education:
   
       **Conference Presentations**:
       Presented papers at the BLP Workshop in the EMNLP 2023 conference, with the contributions published in the conference proceedings.
-   
-
-    #  button:
-    #    text: 'Read Thesis'
-    #    url: 'https://github.com/Dehan001/Dehan001.github.io/blob/main/files/thesis.pdf'
+    button:
+      text: 'Read Thesis'
+      url: 'https://github.com/Dehan001/Dehan001.github.io/blob/main/files/thesis.pdf'
     
     #  button:
     #    text: 'Slides'
