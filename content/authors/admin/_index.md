@@ -234,9 +234,8 @@ hobbies:
 
 languages:
   - name: English
-    proficiency: 100%
-    description: 'Excellent command of both written and spoken English, proficient in academic and professional communication.'
-    
+    percent: 100
+     
   - name: Bangla
     proficiency: 'Fluent (100%)'
     description: 'Native speaker with strong reading, writing, and conversational skills.'
