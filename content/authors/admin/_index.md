@@ -81,19 +81,9 @@ education:
 
       **Thesis**: BaTEClaCor: A Novel Dataset for Bangla Text Error Classification and Correction. 
       Supervised by <a href="http://iub.ac.bd/academics/departments/cse/faculty-and-staff/akmmrahman" target="_blank">A K M Mahbubur Rahman, PhD</a>. Presented paper at the BLP Workshop in the EMNLP 2023 conference, with the contributions published in the conference proceedings.
-    buttons:
-      content:
-        buttons:
-          - title: Read my latest paper on LLMs
-            icon: brands/arxiv
-            url: https://arxiv.org/abs/2304.01852
-          - title: Watch my new YouTube video to achieve 20x productivity
-            icon: brands/youtube
-            url: https://youtube.com
-          - title: Connect with me on LinkedIn
-            icon: brands/linkedin
-            url: https://linkedin.com
-
+    button:
+      text: Read Thesis
+      url: /uploads/thesis.pdf
 
 
   - area: HSC (Science)
