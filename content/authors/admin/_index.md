@@ -84,6 +84,9 @@ education:
     button:
       text: Read Thesis
       url: /uploads/thesis.pdf
+    button: 
+      text: Slides
+      url: /uploads/thesis_slides.pptx
 
 
   - area: HSC (Science)
