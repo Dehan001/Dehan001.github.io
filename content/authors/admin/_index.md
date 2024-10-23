@@ -85,10 +85,6 @@ education:
       text: Read Thesis
       url: /uploads/thesis.pdf
     
-      text: Slides
-      url: /uploads/thesis_slides.pptx
-
-
   - area: HSC (Science)
     institution: Cantonment Public School and College, Rangpur
     date_start: 2016-01-01
