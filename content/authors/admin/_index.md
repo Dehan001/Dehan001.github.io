@@ -237,29 +237,20 @@ languages:
     percent: 100
      
   - name: Bangla
-    proficiency: 'Fluent (100%)'
-    description: 'Native speaker with strong reading, writing, and conversational skills.'
-
+    percent: 100
+    
   - name: Hindi
-    proficiency: 'Intermediate (50%)'
-    description: 'Basic conversational skills, capable of understanding and communicating in everyday situations.'
-
+    percent: 50
+   
   - name: Japanese
-    proficiency: 'Basic (25%)'
-    description: 'Elementary understanding of spoken and written Japanese, currently learning for personal interest.'
-
+    percent: 25%
+   
   - name: French
-    proficiency: 'Basic (25%)'
-    description: 'Familiar with basic phrases and vocabulary, with a goal to improve conversational skills in the future.'
-
+    percent: 25
+   
   - name: Urdu
-    proficiency: 'Intermediate (50%)'
-    description: 'Ability to understand and communicate in Urdu, especially in informal settings.'
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+    percent: 50
+   
 awards:
   - title: Dean’s List
     url: https://www.iub.edu.bd/awards/deans-list
