@@ -2,6 +2,7 @@
 # Display name
 title: ফারহান নূর দিহান
 
+
 # Name pronunciation (optional)
 name_pronunciation: Farhan Noor Dehan
 
@@ -20,7 +21,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Student Researcher
+role: Research Intern
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
