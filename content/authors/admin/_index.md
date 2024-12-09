@@ -312,4 +312,4 @@ awards:
 
 ## About Me
 
-Farhan Noor Dehan is a passionate researcher and machine learning enthusiast specializing in natural language processing (NLP), computer vision, and data science. His research interests encompass a variety of algorithms and analyses, along with the development of innovative models tailored for low-resource languages. Farhan is dedicated to exploring the applications of deep learning and explainable AI, aiming to improve model interpretability and effectiveness across diverse domains.
+I am a passionate researcher and machine learning enthusiast with a specialization in natural language processing (NLP), computer vision, and data science. My research interests span a variety of algorithms and analyses, as well as the development of innovative models designed specifically for low-resource languages. I am dedicated to exploring the applications of deep learning and explainable AI, with the goal of improving model interpretability and effectiveness across diverse domains.
