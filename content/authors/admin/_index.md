@@ -244,7 +244,7 @@ languages:
     percent: 50
    
   - name: Japanese
-    percent: 25%
+    percent: 25
    
   - name: French
     percent: 25
