@@ -1,315 +1,148 @@
 ---
-# Display name
-title: ফারহান নূর দিহান
-
-
-# Name pronunciation (optional)
-name_pronunciation: Farhan Noor Dehan
-
-# Full name (for SEO)
+title: Farhan Noor Dehan
 first_name: Farhan Noor
 last_name: Dehan
-
-# Status emoji
-status:
-  icon: 💻
-
-# Is this the primary user of the site?
 superuser: true
-
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
-role: Research Intern
+role: Graduate Research Assistant & M.S. Student in Computer Science
 
-# Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: CCDS – Center for Computational & Data Sciences, IUB
-    url: https://ccds.ai/
+  - name: Georgia Southern University
+    url: https://www.georgiasouthern.edu/
 
-# Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:dehannoor3199@gmail.com'
-    label: E-mail Me
-  
-  - icon: brands/facebook
-    url: https://www.facebook.com/farhannoor.dehan
-    
-  - icon: brands/instagram
-    url: https://www.instagram.com/dehan_001/
-
+    url: mailto:fd02629@georgiasouthern.edu
+    label: Email
   - icon: brands/github
     url: https://github.com/Dehan001
-
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/farhan-noor-dehan-6554ba21a/
-
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=neAnNCwAAAAJ&hl=en
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Farhan-Dehan
+  - icon: academicons/dblp
+    url: https://dblp.org/pid/392/5767.html
 
-  - icon: brands/orcid
-    url: https://orcid.org/0009-0007-3667-0195  # Ensure this ORCID link is correct.
-
-# Interests
 interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Natural Language Processing
-  - Data Science
-  - Computer Vision
+  - Clinical and Social NLP
+  - Large Language Models
+  - Computational Structural Biology
+  - Cryo-EM and Cryo-ET Image Analysis
+  - Low-Resource Language Processing
 
 education:
-  - area: BSc Computer Science and Engineering
-    institution: Independent University Bangladesh
+  - area: M.S. in Computer Science
+    institution: Georgia Southern University
+    date_start: 2025-08-01
+    date_end: ''
+    summary: |
+      Graduate research in clinical and social NLP, large language model evaluation, and computational analysis of cryo-EM/cryo-ET data.
+
+  - area: B.Sc. in Computer Science and Engineering
+    institution: Independent University, Bangladesh
     date_start: 2019-01-01
     date_end: 2024-07-02
     summary: |
-      GPA: 3.78/4.0
-  
-      **Prominent Courses Included**:
-      - Data Mining and Warehousing
-      - Artificial Intelligence
-      - Theory of Computation and Automata
-      - Algorithms
-      - Data Structures
-      - Object-Oriented Programming
-      - Database Systems
-      - Linear Algebra
-      - Numerical Methods
+      GPA: 3.78/4.00
 
-
-      **Thesis**: BaTEClaCor: A Novel Dataset for Bangla Text Error Classification and Correction. 
-      Supervised by <a href="http://iub.ac.bd/academics/departments/cse/faculty-and-staff/akmmrahman" target="_blank">A K M Mahbubur Rahman, PhD</a>. Presented paper at the BLP Workshop in the EMNLP 2023 conference, with the contributions published in the conference proceedings.
+      **Thesis:** *BaTEClaCor: A Novel Dataset for Bangla Text Error Classification and Correction.*
     button:
       text: Read Thesis
       url: /uploads/thesis.pdf
-    
-  - area: HSC (Science)
-    institution: Cantonment Public School and College, Rangpur
-    date_start: 2016-01-01
-    date_end: 2018-12-31
-    summary: |
-      GPA: 5.0/5.0
-
-      Courses included:
-      - Higher Mathematics
-      - Chemistry
-      - Physics
-
-  - area: SSC (Science)
-    institution: Cantonment Public School and College, Rangpur
-    date_start: 2014-01-01
-    date_end: 2015-12-31
-    summary: |
-      GPA: 5.0/5.0
-
-      Courses included:
-      - Higher Mathematics
-      - Chemistry
-      - Physics
 
 work:
-  - position: Student Researcher 
-    company_name: CCDS – Center for Computational & Data Sciences, IUB
-    company_url: 'https://ccds.ai/'
-    company_logo: 'https://raw.githubusercontent.com/Dehan001/Dehan001.github.io/main/files/ccds_logo.PNG'
-    date_start: 2022-01-08
+  - position: Graduate Research Assistant
+    company_name: Georgia Southern University
+    company_url: https://www.georgiasouthern.edu/
+    date_start: 2025-08-01
     date_end: ''
     summary: |
-      Responsibilities include:
-      - Designing and developing research proposals to investigate advanced topics in computational and data sciences.
-      - Collecting, preprocessing, and analyzing data sets to drive insights for research projects.
-      - Implementing machine learning models and algorithms for natural language processing and computer vision tasks.
-      - Drafting and revising research papers for conferences and journals.
-      - Presenting research findings in internal seminars and external conferences.
-      - Collaborating with senior researchers and peers to refine methodologies and improve outcomes.
+      - Develop NLP methods for analyzing clinical and mental-health discourse, including LLM-based classification and contextual annotation.
+      - Build computational pipelines for cryo-EM/cryo-ET structure analysis, model-map validation, and filament or secondary-structure characterization.
+      - Prepare datasets, experiments, publications, and research presentations in interdisciplinary collaborations.
 
-  - position: Undergraduate Student Researcher 
-    company_name: Fab Lab, IUB
-    company_url: 'https://fablabiub.com/'
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - position: Research Intern
+    company_name: Center for Computational & Data Sciences, Independent University, Bangladesh
+    company_url: https://ccds.ai/
+    date_start: 2024-03-01
+    date_end: 2025-08-01
     summary: |
-      Responsibilities included:
-      - Proposing and conceptualizing innovative projects related to electronics, robotics, and engineering solutions.
-      - Hands-on implementation of projects using Arduino, sensors, and various microcontroller platforms.
-      - Designing and building prototypes of hardware solutions, including circuit design and 3D modeling.
-      - Collaborating with peers and faculty members to develop solutions that align with the objectives of the lab.
-      - Documenting project development processes and presenting results to stakeholders.
+      - Conducted research in Bangla NLP, text classification, graph neural networks, and compact language models.
+      - Built and evaluated reproducible machine-learning pipelines and contributed to peer-reviewed publications.
+
+  - position: Teaching Assistant, Data Structures
+    company_name: Independent University, Bangladesh
+    company_url: https://www.iub.edu.bd/
+    date_start: 2023-10-01
+    date_end: 2023-11-30
+    summary: |
+      - Prepared course materials and visual explanations of core data structures.
+      - Supported students through programming tutorials and managed course communication.
+
+  - position: Sports Secretary
+    company_name: Bangladesh Student Association, Georgia Southern University
+    date_start: 2026-06-01
+    date_end: ''
+    summary: |
+      - Organize sports activities and support student engagement through teamwork and community events.
 
 skills:
-  - name: Technical Skills
+  - name: Research & Engineering
     items:
-      - name: C++
-        description: '✨ Proficient in C++ with a strong foundation in object-oriented programming, algorithms, and data structures. Developed various projects emphasizing performance and efficiency.'
-        icon: code-bracket
-
       - name: Python
-        description: '🐍 Highly skilled in Python for data analysis and automation. Experienced in developing robust machine learning models using popular libraries.'
-        percent: 85
+        description: Scientific computing, data pipelines, automation, and machine learning.
         icon: code-bracket
-
+      - name: NLP & LLMs
+        description: Text classification, prompting, fine-tuning, annotation, and evaluation.
+        icon: chat-bubble-left-right
+      - name: Deep Learning
+        description: PyTorch, TensorFlow, Keras, CNNs, and segmentation architectures.
+        icon: cpu-chip
+      - name: Scientific Image Analysis
+        description: Cryo-EM/cryo-ET maps, ChimeraX workflows, 3D segmentation, and geometric analysis.
+        icon: cube-transparent
       - name: Data Science
-        description: '📊 Expert in data science techniques, including data preprocessing, visualization, and statistical analysis with tools like Pandas, NumPy, and Matplotlib.'
-        percent: 100
+        description: Pandas, NumPy, scikit-learn, statistical analysis, and visualization.
         icon: chart-bar
-
-      - name: Pandas
-        description: '📈 Specialized in data manipulation and analysis, enabling efficient handling of structured data for insightful analytics.'
-        icon: table
-
-      - name: Scikit-learn
-        description: '🔍 Proficient in implementing machine learning algorithms for classification, regression, and clustering tasks using Scikit-learn.'
-        icon: atom
-
-      - name: PyTorch
-        description: '🔥 Experienced in building and training deep learning models with PyTorch, particularly for natural language processing and computer vision applications.'
-        icon: flame
-
-      - name: Keras
-        description: '💡 Skilled in using Keras to design and train neural networks, streamlining the model-building process with intuitive APIs.'
-        icon: neural-net
-
-      - name: Gradio
-        description: '🖥️ Proficient in Gradio for creating interactive user interfaces that showcase machine learning models, enhancing user engagement.'
-        icon: web
-
-      - name: TensorFlow
-        description: '🌟 Well-versed in TensorFlow for developing scalable deep learning models, leveraging its powerful features for complex computations.'
-        icon: neural-net
-
-      - name: Convolutional Networks (CNN)
-        description: '📷 Specialized in utilizing CNN architectures for image classification and object detection, contributing to state-of-the-art computer vision solutions.'
-        icon: image
-
-      - name: ResNet
-        description: '🚀 Familiar with ResNet architectures to improve deep learning model performance and tackle vanishing gradient issues.'
-        icon: architecture
-
-      - name: SQL
-        description: '🗄️ Experienced in writing complex SQL queries for efficient data extraction, manipulation, and reporting, ensuring data integrity and accessibility.'
-        percent: 50
-        icon: circle-stack
-
-      - name: HTML & CSS
-        description: '🌐 Basic knowledge of HTML and CSS for web development, enabling the creation of responsive and aesthetically pleasing front-end interfaces.'
-        icon: code
-
-      - name: JavaScript
-        description: '📜 Proficient in JavaScript for enhancing web applications with interactive features and dynamic content, utilizing frameworks like React for modern development.'
-        icon: language-javascript
-
-hobbies:
-  color: '#eeac02'
-  color_border: '#f0bf23'
-  items:
-    - name: Reading Books
-      description: '📚 Avid reader of fiction and non-fiction, exploring diverse genres from classics to modern literature. Passionate about gaining insights and knowledge through stories.'
-      percent: 70
-      icon: book-open
-
-    - name: Watching Animes
-      description: '🎬 Enthusiastic anime viewer, enjoying various genres such as action, fantasy, and slice-of-life. Appreciates storytelling, character development, and artistic styles in animation.'
-      percent: 100
-      icon: film
-
-    - name: Cats
-      description: '🐾 Cat lover who enjoys spending time with feline friends. Passionate about animal welfare and advocacy for stray cats.'
-      percent: 80
-      icon: cat
-
- 
-    - name: Playing Video Games
-      description: '🎮 A gamer who enjoys a variety of genres, including RPGs, strategy, and puzzles. Values the strategic thinking and teamwork involved in gaming.'
-      percent: 75
-      icon: gamepad
-
-    - name: Cooking
-      description: '🍳 Enjoys experimenting with different cuisines and recipes. Loves the creativity involved in cooking and sharing meals with friends and family.'
-      percent: 65
-      icon: chef-hat
-
+      - name: Research Communication
+        description: LaTeX, technical writing, presentations, and reproducible documentation.
+        icon: document-text
 
 languages:
-  - name: English
-    percent: 100
-     
   - name: Bangla
     percent: 100
-    
+  - name: English
+    percent: 90
   - name: Hindi
     percent: 50
-   
-  - name: Japanese
-    percent: 25
-   
   - name: French
     percent: 25
-   
-  - name: Urdu
-    percent: 50
-   
+
 awards:
-  - title: Dean’s List
-    url: https://www.iub.edu.bd/awards/deans-list
-    date: '2024-10-01'
-    awarder: Independent University Bangladesh
-    icon: university
+  - title: Allen E. Paulson Student Scholarship Endowment
+    date: '2026-05-01'
+    awarder: Georgia Southern University
     summary: |
-      Recognized for academic excellence by being named to the Dean's List for the Autumn 2023 semester at Independent University, Bangladesh (IUB). Achieved this honor by maintaining a CGPA of 3.50 or higher during the semester.
+      Awarded in recognition of academic merit and continued graduate study in Computer Science.
 
-  - title: Vice Chancellor's List
-    url: https://www.iub.edu.bd/awards/vice-chancellors-list
-    date: '2024-10-01'
-    awarder: Independent University Bangladesh
-    icon: university
+  - title: Merit Scholarship
+    date: '2023-05-01'
+    awarder: Independent University, Bangladesh
     summary: |
-      Honored on the Vice Chancellor’s List for the Spring 2023 semester at Independent University, Bangladesh (IUB). Achieved this recognition by maintaining a CGPA of 3.50 or higher for three consecutive semesters.
+      Merit-based tuition support received during undergraduate study.
 
-  - title: Dean’s Honors List
-    url: https://www.iub.edu.bd/awards/deans-honors-list
+  - title: Vice Chancellor's and Dean's Honor Lists
     date: '2023-11-01'
-    awarder: Independent University Bangladesh
-    icon: university
+    awarder: Independent University, Bangladesh
     summary: |
-      Named to the Dean’s Honors List for the Spring 2022 semester at Independent University, Bangladesh (IUB). Achieved this distinction by maintaining a CGPA of 3.76 or higher during the semester.
-
-  - title: Vice Chancellor’s Honors List
-    url: https://www.iub.edu.bd/awards/vice-chancellors-honors-list
-    date: '2023-11-01'
-    awarder: Independent University Bangladesh
-    icon: university
-    summary: |
-      Recognized on the Vice Chancellor’s Honors List for the Summer 2022 semester at Independent University, Bangladesh (IUB). Earned this distinction by maintaining a CGPA of 3.86 or higher for three successive semesters.
-
-  - title: Vice Chancellor’s List
-    url: https://www.iub.edu.bd/awards/vice-chancellors-list-autumn-2022
-    date: '2023-11-01'
-    awarder: Independent University Bangladesh
-    icon: university
-    summary: |
-      Honored on the Vice Chancellor’s List for the Autumn 2022 semester at Independent University, Bangladesh (IUB). Achieved this recognition by maintaining a CGPA of 3.50 or higher for three consecutive semesters.
-
-  - title: Dean’s List
-    url: https://www.iub.edu.bd/awards/deans-list-spring-autumn-2021
-    date: '2022-11-01'
-    awarder: Independent University Bangladesh
-    icon: university
-    summary: |
-      Recognized for academic excellence by being named to the Dean's List for the Spring and Autumn 2021 semesters at Independent University, Bangladesh (IUB). Achieved this honor by maintaining a CGPA of 3.50 or higher during these semesters.
-
-  - title: Dean’s List
-    url: https://www.iub.edu.bd/awards/deans-list-spring-2020
-    date: '2021-09-01'
-    awarder: Independent University Bangladesh
-    icon: university
-    summary: |
-      Recognized for academic excellence by being named to the Dean's List for the Spring 2020 semester at Independent University, Bangladesh (IUB). Achieved this honor by maintaining a CGPA of 3.50 or higher during the semester.
+      Multiple academic distinctions for consistently strong undergraduate performance.
 ---
 
-## About Me
+## About
 
-I am a passionate researcher and machine learning enthusiast with a specialization in natural language processing (NLP), computer vision, and data science. My research interests span a variety of algorithms and analyses, as well as the development of innovative models designed specifically for low-resource languages. I am dedicated to exploring the applications of deep learning and explainable AI, with the goal of improving model interpretability and effectiveness across diverse domains.
+I am an M.S. student and Graduate Research Assistant in Computer Science at Georgia Southern University. My research connects **natural language processing** and **scientific image analysis**: I study how language models interpret clinically meaningful signals in online mental-health discourse, and I develop computational methods for analyzing cryo-EM and cryo-ET data.
+
+My broader interests include reliable LLM evaluation, low-resource language technology, deep-learning-based segmentation, and reproducible research pipelines. I enjoy working across disciplinary boundaries where machine learning can make complex scientific data more interpretable and useful.
