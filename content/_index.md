@@ -17,18 +17,12 @@ sections:
 
   - block: markdown
     content:
-      title: Research
-      subtitle: Machine learning for language, health, and biological structure
+      title: Research Focus
+      subtitle: NLP, biomedical AI, and computational structural biology
       text: |-
-        My research brings together **natural language processing**, **biomedical AI**, and **scientific image analysis**.
+        I build machine-learning systems for two complementary research areas. In **clinical and social NLP**, I study LLM evaluation, demographic information extraction, and the contextual interpretation of mental-health discourse. In **biomedical image analysis**, I work with cryo-EM and cryo-ET data to develop reproducible pipelines for segmentation, model-map validation, and structural analysis.
 
-        - **Clinical and Social NLP** — I develop annotation and machine-learning methods for studying mental-health discourse, demographic information, clinical risk factors, and the contextual meaning of substance-use references.
-
-        - **Large Language Models** — I evaluate prompting and classification approaches, with an emphasis on reliability, interpretability, and low-resource settings.
-
-        - **Cryo-EM and Cryo-ET Analysis** — I build reproducible pipelines for protein structure validation, β-strand centerline analysis, and deep-learning-based filament segmentation.
-
-        Across these areas, my goal is to create computational methods that are technically rigorous, scientifically meaningful, and useful for interdisciplinary research.
+        My goal is to develop careful, interpretable methods that connect strong computational modeling with meaningful scientific questions.
     design:
       columns: "1"
       background:
