@@ -12,9 +12,9 @@ sections:
       username: admin
       text: ""
     design:
-      css_class: dark
+     
       background:
-        color: black
+        color: '#f8fafc'
         image:
           filename: stacked-peaks.svg
           filters:
