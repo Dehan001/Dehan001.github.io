@@ -12,16 +12,8 @@ sections:
       username: admin
       text: ""
     design:
-     
       background:
-        color: '#f8fafc'
-        image:
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 0.8
-          size: cover
-          position: center
-          parallax: false
+        color: "#f8fafc"
 
   - block: markdown
     content:
@@ -32,7 +24,9 @@ sections:
 
         My goal is to develop careful, interpretable methods that connect strong computational modeling with meaningful scientific questions.
     design:
-      columns: '1'
+      columns: "1"
+      background:
+        color: "#ffffff"
 
   - block: collection
     id: papers
@@ -45,6 +39,8 @@ sections:
         featured_only: true
     design:
       view: citation
+      background:
+        color: "#f8fafc"
 
   - block: collection
     content:
@@ -55,6 +51,8 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      background:
+        color: "#ffffff"
 
   - block: collection
     id: projects
@@ -68,4 +66,6 @@ sections:
       view: article-grid
       fill_image: false
       columns: 2
+      background:
+        color: "#f8fafc"
 ---
