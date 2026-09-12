@@ -1,0 +1,6 @@
+/* Space between the English pronunciation and Bangla name */
+ruby rt {
+  position: relative;
+  top: -0.18rem;
+  font-size: 0.48em;
+}
