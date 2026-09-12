@@ -1,5 +1,6 @@
 ---
-title: Farhan Noor Dehan
+title: "ফারহান নূর দিহান"
+name_pronunciation: "Farhan Noor Dehan"
 first_name: Farhan Noor
 last_name: Dehan
 superuser: true
